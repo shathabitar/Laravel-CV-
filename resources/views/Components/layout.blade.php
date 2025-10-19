@@ -9,8 +9,6 @@
 </head>
 
 <body>
-
-    <!-- Slot for page content -->
     {{ $slot }}
 
 </body>
